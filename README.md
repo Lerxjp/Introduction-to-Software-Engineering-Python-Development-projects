@@ -7,7 +7,7 @@ These projects are hosted purely for **portfolio and professional demonstration 
 
 ## Projects completed
 
-### P1 -  Simplistic-2D platformer using python
+### P1 -  2D-Python Platformer
 A simplistic 2D platformer game with python, rendered through the command line using string manipulation. The learning objectives for this assignment where as follows:
 * **String Manipulation:** Managed game states by programmatically updating and printing map strings based on user input.
 * **Object-Oriented Programming (OOP):** Applied core concepts to organize player and environment entities.
@@ -15,7 +15,7 @@ A simplistic 2D platformer game with python, rendered through the command line u
 * **Specification Translation:** Converted technical requirements into a functional terminal-based game.
 * **Testing & Debugging:** Applied systematic debugging to ensure consistent movement and collision logic.
 
-### P2 - Programing Card game based on Sleeping queens. The learning objectives for this assignment where as follows:
+### P2 - Python Card Game: Based on Sleeping Queens
 Simplistic Card game base on the childrens card game, Sleeping Queens.
 * **Object-Oriented Programming (OOP):** Modeled game rules, card decks, and player turns using structured class hierarchies.
 * **Logic Implementation:** Translated complex game rules into functional algorithms to handle win-states and turn cycles.
@@ -23,7 +23,7 @@ Simplistic Card game base on the childrens card game, Sleeping Queens.
 * **Program Constructs:** Utilized Python constructs to manage the flow and state of a multi-player card game.
 * **Testing & Debugging:** Verified game integrity through rigorous testing of card interaction logic.
 
-### P3 - More advanced 2D-platformer
+### P3 - Advanced 2D-python platformer: based on Super Mario.
 An extended mario style 2D-platformer written in python using tkinter. The learning objectives for this assignment where as follows:
 * **GUI Development (Tkinter):** Designed and implemented a visual interface for a real-time game environment.
 * **Functional Programming:** Optimized data processing using **higher-order functions**, **list comprehensions**, and **generators**.
